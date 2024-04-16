@@ -64,7 +64,7 @@ Register Number :212223220026
 ![Screenshot 2024-04-16 230010](https://github.com/gowshik145/NearMe/assets/155086127/3996a70c-5496-43be-8fe8-4ba486c84687)
 ![Screenshot 2024-04-16 230119](https://github.com/gowshik145/NearMe/assets/155086127/a36d43fa-580f-4157-a3f4-c39bc4a85b52)
 ![Screenshot 2024-04-16 230220](https://github.com/gowshik145/NearMe/assets/155086127/a7d7ad3f-1083-44e4-8066-fa08bf9edeb0)
-![Screenshot 2024-04-16 230234](https://github.com/gowshik145/NearMe/assets/155086127/3effbc70-e87d-4717-92b6-bb39cb3fdf1c)
+![image](https://github.com/gowshik145/NearMe/assets/155086127/cb08fd9e-3b32-4511-9678-75059c67fa66)
 ![Screenshot 2024-04-16 230952](https://github.com/gowshik145/NearMe/assets/155086127/38c8a9ac-0563-466e-b8d2-751c5c7891b5)
 
 
